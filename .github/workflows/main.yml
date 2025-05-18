@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 学习通账号 15987821030 学习通密码 rzw2005120@  117300508#课程id，默认为心理课的
+        run: python main.py -u 学习通账号 15987821030 学习通密码 rzw2005120@  117300508 #课程id，默认为心理课的
